@@ -92,3 +92,4 @@ Improved UI consistency
 The refactoring process significantly enhanced the code quality without changing the core functionality. The application is now more readable, efficient, and maintainable. These improvements make the project suitable for academic submission and internship evaluation.
 
 ##OUTPUT
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fed1708b-b816-45df-b072-ddcea62b3252" />
